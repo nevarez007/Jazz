@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/c4306fa6-2c74-47cc-8b2a-af4ec177ea15
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -30,7 +32,7 @@
 
     <section>
       <h2>Video de clase</h2>
-      <video src="https://github.com/user-attachments/assets/bf6540cb-bf13-42ff-986c-274aafaaa69c" width="400" controls></video>
+      <video src="https://github.com/user-attachments/assets/fb7e6f5a-df5e-44e8-9c17-d592dea6759e" controls width="400"></video>
     </section>
 
 
