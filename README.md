@@ -30,11 +30,11 @@
 
     <section>
       <h2>Video de clase</h2>
-      <video src="media/jazz-video.mp4" width="400" controls></video>
+      <video src="https://github.com/user-attachments/assets/bf6540cb-bf13-42ff-986c-274aafaaa69c" width="400" controls></video>
     </section>
 
 
   <footer>
     <marquee>¡Exprésate con ritmo y energía en nuestras clases de Jazz!</marquee>
-    <p>&copy; 2025 Academia Estrella</p>
+   2025 Academia Estrella</p>
   </footer>
