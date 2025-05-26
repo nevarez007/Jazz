@@ -36,5 +36,5 @@
 
   <footer>
     <marquee>¡Exprésate con ritmo y energía en nuestras clases de Jazz!</marquee>
-   2025 Academia Estrella</p>
+   2025 Academia Estrella
   </footer>
