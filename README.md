@@ -18,7 +18,7 @@
     <section>
       <h2>¿Qué es el Jazz?</h2>
       <p>El jazz es un estilo de danza lleno de energía, que mezcla técnica con libertad creativa. Su origen está vinculado a la música jazz, pero hoy en día incorpora movimientos modernos, urbanos y teatrales. Es ideal para mejorar coordinación, expresión y ritmo.</p>
-      <img src="media/jazz.jpg" alt="Clase de Jazz" width="400">
+      <img src="https://lagazzettadf.com/wp-content/uploads/2019/11/jazz-1025x577.jpg?x26755" alt="Clase de Jazz" width="400">
     </section>
 
     <section>
