@@ -37,11 +37,8 @@
       <h2>Música típica del Jazz</h2>
       <audio src="media/jazz-musica.mp3" controls></audio>
     </section>
-  </main>
 
   <footer>
     <marquee>¡Exprésate con ritmo y energía en nuestras clases de Jazz!</marquee>
     <p>&copy; 2025 Academia Estrella</p>
   </footer>
-</body>
-</html>
