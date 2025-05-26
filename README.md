@@ -11,7 +11,6 @@
       <a href="clases.html">Clases</a>
       <a href="estilos.html">Estilos</a>
       <a href="contacto.html">Contacto</a>
-      <a href="https://es.wikipedia.org/wiki/Danza_jazz" target="_blank">¿Qué es el Jazz?</a>
     </nav>
   </header>
 
