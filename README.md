@@ -26,20 +26,7 @@
     </section>
 
     <section>
-      <h2>Inscríbete a Jazz</h2>
-      <form>
-        <label>Nombre completo: <input type="text" name="nombre"></label><br>
-        <label>Edad: <input type="number" name="edad"></label><br>
-        <label>Email: <input type="email" name="email"></label><br>
-        <label>Selecciona tu nivel:
-          <select>
-            <option>Principiantes</option>
-            <option>Intermedios</option>
-          </select>
-        </label><br>
-        <input type="submit" value="Inscribirme">
-      </form>
-    </section>
+      
 
     <section>
       <h2>Video de clase</h2>
