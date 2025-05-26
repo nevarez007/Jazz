@@ -7,10 +7,10 @@
   <header>
     <h1>Clase de Jazz</h1>
     <nav>
-      <a href="index.html">Inicio</a>
-      <a href="clases.html">Clases</a>
-      <a href="estilos.html">Estilos</a>
-      <a href="contacto.html">Contacto</a>
+      <a href="https://nevarez007.github.io/Danza/index.html">Inicio</a>
+      <a href="https://nevarez007.github.io/clase/">Clases</a>
+      <a href="https://nevarez007.github.io/Informaci-n/">Estilos</a>
+      <a href="https://nevarez007.github.io/contacto/">Contacto</a>
     </nav>
   </header>
 
