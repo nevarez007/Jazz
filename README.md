@@ -22,27 +22,7 @@
     </section>
 
     <section>
-      <h2>Horarios y Precios</h2>
-      <table>
-        <tr>
-          <th>Día</th>
-          <th>Horario</th>
-          <th>Nivel</th>
-          <th>Precio mensual</th>
-        </tr>
-        <tr>
-          <td>Lunes y Miércoles</td>
-          <td>5:00 PM - 6:00 PM</td>
-          <td>Principiantes</td>
-          <td>$320</td>
-        </tr>
-        <tr>
-          <td>Martes y Jueves</td>
-          <td>6:00 PM - 7:30 PM</td>
-          <td>Intermedios</td>
-          <td>$370</td>
-        </tr>
-      </table>
+      
     </section>
 
     <section>
