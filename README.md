@@ -33,10 +33,6 @@
       <video src="media/jazz-video.mp4" width="400" controls></video>
     </section>
 
-    <section>
-      <h2>Música típica del Jazz</h2>
-      <audio src="media/jazz-musica.mp3" controls></audio>
-    </section>
 
   <footer>
     <marquee>¡Exprésate con ritmo y energía en nuestras clases de Jazz!</marquee>
